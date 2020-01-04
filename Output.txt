@@ -1,0 +1,878 @@
+The traders are as follows... 
+
+
+Trader [traderId=81, traderType=SELLER]
+
+Trader [traderId=83, traderType=SELLER]
+
+Trader [traderId=9, traderType=SELLER]
+
+Trader [traderId=77, traderType=SELLER]
+
+Trader [traderId=62, traderType=SELLER]
+
+Trader [traderId=31, traderType=SELLER]
+
+Trader [traderId=88, traderType=SELLER]
+
+Trader [traderId=74, traderType=SELLER]
+
+Trader [traderId=54, traderType=SELLER]
+
+Trader [traderId=75, traderType=SELLER]
+
+Trader [traderId=123, traderType=BUYER]
+
+Trader [traderId=80, traderType=BUYER]
+
+Trader [traderId=44, traderType=BUYER]
+
+Trader [traderId=39, traderType=BUYER]
+
+Trader [traderId=32, traderType=BUYER]
+
+Trader [traderId=102, traderType=BUYER]
+
+Trader [traderId=124, traderType=BUYER]
+
+Trader [traderId=59, traderType=BUYER]
+
+Trader [traderId=32, traderType=BUYER]
+
+Trader [traderId=36, traderType=BUYER]
+
+The bids are as follows...
+
+
+Bid [bidId=763, traderId=81, bidType=ASK, quantity=28, price=115]
+
+Bid [bidId=74, traderId=81, bidType=ASK, quantity=13, price=117]
+
+Bid [bidId=61, traderId=81, bidType=ASK, quantity=4, price=98]
+
+Bid [bidId=72, traderId=81, bidType=ASK, quantity=24, price=60]
+
+Bid [bidId=248, traderId=81, bidType=ASK, quantity=4, price=134]
+
+Bid [bidId=758, traderId=81, bidType=ASK, quantity=24, price=85]
+
+Bid [bidId=528, traderId=81, bidType=ASK, quantity=19, price=112]
+
+Bid [bidId=333, traderId=81, bidType=ASK, quantity=11, price=107]
+
+Bid [bidId=27, traderId=81, bidType=ASK, quantity=26, price=140]
+
+Bid [bidId=217, traderId=81, bidType=ASK, quantity=17, price=97]
+
+Bid [bidId=614, traderId=83, bidType=ASK, quantity=8, price=86]
+
+Bid [bidId=682, traderId=83, bidType=ASK, quantity=23, price=60]
+
+Bid [bidId=523, traderId=83, bidType=ASK, quantity=5, price=60]
+
+Bid [bidId=634, traderId=83, bidType=ASK, quantity=10, price=60]
+
+Bid [bidId=428, traderId=83, bidType=ASK, quantity=24, price=110]
+
+Bid [bidId=712, traderId=83, bidType=ASK, quantity=18, price=60]
+
+Bid [bidId=934, traderId=83, bidType=ASK, quantity=24, price=97]
+
+Bid [bidId=22, traderId=83, bidType=ASK, quantity=21, price=74]
+
+Bid [bidId=175, traderId=83, bidType=ASK, quantity=20, price=60]
+
+Bid [bidId=752, traderId=83, bidType=ASK, quantity=10, price=68]
+
+Bid [bidId=604, traderId=9, bidType=ASK, quantity=4, price=84]
+
+Bid [bidId=335, traderId=9, bidType=ASK, quantity=23, price=129]
+
+Bid [bidId=902, traderId=9, bidType=ASK, quantity=19, price=104]
+
+Bid [bidId=742, traderId=9, bidType=ASK, quantity=3, price=60]
+
+Bid [bidId=62, traderId=9, bidType=ASK, quantity=18, price=60]
+
+Bid [bidId=525, traderId=9, bidType=ASK, quantity=28, price=125]
+
+Bid [bidId=982, traderId=9, bidType=ASK, quantity=1, price=60]
+
+Bid [bidId=702, traderId=9, bidType=ASK, quantity=21, price=139]
+
+Bid [bidId=810, traderId=9, bidType=ASK, quantity=6, price=114]
+
+Bid [bidId=0, traderId=9, bidType=ASK, quantity=4, price=107]
+
+Bid [bidId=757, traderId=77, bidType=ASK, quantity=5, price=60]
+
+Bid [bidId=954, traderId=77, bidType=ASK, quantity=21, price=129]
+
+Bid [bidId=149, traderId=77, bidType=ASK, quantity=5, price=117]
+
+Bid [bidId=249, traderId=77, bidType=ASK, quantity=8, price=144]
+
+Bid [bidId=256, traderId=77, bidType=ASK, quantity=22, price=126]
+
+Bid [bidId=545, traderId=77, bidType=ASK, quantity=11, price=60]
+
+Bid [bidId=456, traderId=77, bidType=ASK, quantity=20, price=60]
+
+Bid [bidId=886, traderId=77, bidType=ASK, quantity=1, price=60]
+
+Bid [bidId=801, traderId=77, bidType=ASK, quantity=5, price=99]
+
+Bid [bidId=164, traderId=77, bidType=ASK, quantity=25, price=60]
+
+Bid [bidId=195, traderId=62, bidType=ASK, quantity=12, price=121]
+
+Bid [bidId=876, traderId=62, bidType=ASK, quantity=3, price=96]
+
+Bid [bidId=511, traderId=62, bidType=ASK, quantity=23, price=145]
+
+Bid [bidId=323, traderId=62, bidType=ASK, quantity=20, price=67]
+
+Bid [bidId=752, traderId=62, bidType=ASK, quantity=24, price=119]
+
+Bid [bidId=351, traderId=62, bidType=ASK, quantity=23, price=101]
+
+Bid [bidId=315, traderId=62, bidType=ASK, quantity=18, price=60]
+
+Bid [bidId=622, traderId=62, bidType=ASK, quantity=17, price=134]
+
+Bid [bidId=776, traderId=62, bidType=ASK, quantity=2, price=116]
+
+Bid [bidId=151, traderId=62, bidType=ASK, quantity=10, price=120]
+
+Bid [bidId=943, traderId=31, bidType=ASK, quantity=16, price=114]
+
+Bid [bidId=570, traderId=31, bidType=ASK, quantity=13, price=103]
+
+Bid [bidId=173, traderId=31, bidType=ASK, quantity=18, price=60]
+
+Bid [bidId=54, traderId=31, bidType=ASK, quantity=21, price=60]
+
+Bid [bidId=666, traderId=31, bidType=ASK, quantity=10, price=60]
+
+Bid [bidId=682, traderId=31, bidType=ASK, quantity=3, price=80]
+
+Bid [bidId=180, traderId=31, bidType=ASK, quantity=20, price=60]
+
+Bid [bidId=545, traderId=31, bidType=ASK, quantity=6, price=118]
+
+Bid [bidId=106, traderId=31, bidType=ASK, quantity=8, price=80]
+
+Bid [bidId=389, traderId=31, bidType=ASK, quantity=19, price=128]
+
+Bid [bidId=100, traderId=88, bidType=ASK, quantity=25, price=80]
+
+Bid [bidId=31, traderId=88, bidType=ASK, quantity=17, price=60]
+
+Bid [bidId=408, traderId=88, bidType=ASK, quantity=21, price=60]
+
+Bid [bidId=760, traderId=88, bidType=ASK, quantity=19, price=85]
+
+Bid [bidId=281, traderId=88, bidType=ASK, quantity=3, price=60]
+
+Bid [bidId=465, traderId=88, bidType=ASK, quantity=7, price=80]
+
+Bid [bidId=329, traderId=88, bidType=ASK, quantity=10, price=125]
+
+Bid [bidId=24, traderId=88, bidType=ASK, quantity=17, price=124]
+
+Bid [bidId=702, traderId=88, bidType=ASK, quantity=9, price=121]
+
+Bid [bidId=562, traderId=88, bidType=ASK, quantity=27, price=113]
+
+Bid [bidId=434, traderId=74, bidType=ASK, quantity=8, price=84]
+
+Bid [bidId=536, traderId=74, bidType=ASK, quantity=2, price=67]
+
+Bid [bidId=265, traderId=74, bidType=ASK, quantity=22, price=146]
+
+Bid [bidId=80, traderId=74, bidType=ASK, quantity=20, price=60]
+
+Bid [bidId=559, traderId=74, bidType=ASK, quantity=29, price=110]
+
+Bid [bidId=6, traderId=74, bidType=ASK, quantity=17, price=100]
+
+Bid [bidId=354, traderId=74, bidType=ASK, quantity=2, price=60]
+
+Bid [bidId=10, traderId=74, bidType=ASK, quantity=28, price=60]
+
+Bid [bidId=3, traderId=74, bidType=ASK, quantity=23, price=60]
+
+Bid [bidId=640, traderId=74, bidType=ASK, quantity=9, price=101]
+
+Bid [bidId=610, traderId=54, bidType=ASK, quantity=8, price=120]
+
+Bid [bidId=21, traderId=54, bidType=ASK, quantity=1, price=60]
+
+Bid [bidId=591, traderId=54, bidType=ASK, quantity=4, price=60]
+
+Bid [bidId=243, traderId=54, bidType=ASK, quantity=28, price=119]
+
+Bid [bidId=85, traderId=54, bidType=ASK, quantity=1, price=135]
+
+Bid [bidId=35, traderId=54, bidType=ASK, quantity=3, price=119]
+
+Bid [bidId=721, traderId=54, bidType=ASK, quantity=19, price=140]
+
+Bid [bidId=299, traderId=54, bidType=ASK, quantity=2, price=137]
+
+Bid [bidId=942, traderId=54, bidType=ASK, quantity=16, price=60]
+
+Bid [bidId=528, traderId=54, bidType=ASK, quantity=3, price=74]
+
+Bid [bidId=883, traderId=75, bidType=ASK, quantity=20, price=87]
+
+Bid [bidId=667, traderId=75, bidType=ASK, quantity=10, price=145]
+
+Bid [bidId=823, traderId=75, bidType=ASK, quantity=6, price=60]
+
+Bid [bidId=861, traderId=75, bidType=ASK, quantity=26, price=60]
+
+Bid [bidId=799, traderId=75, bidType=ASK, quantity=25, price=115]
+
+Bid [bidId=684, traderId=75, bidType=ASK, quantity=13, price=60]
+
+Bid [bidId=673, traderId=75, bidType=ASK, quantity=27, price=102]
+
+Bid [bidId=821, traderId=75, bidType=ASK, quantity=22, price=98]
+
+Bid [bidId=396, traderId=75, bidType=ASK, quantity=12, price=115]
+
+Bid [bidId=264, traderId=75, bidType=ASK, quantity=22, price=103]
+
+Bid [bidId=450, traderId=123, bidType=BUY, quantity=23, price=98]
+
+Bid [bidId=512, traderId=123, bidType=BUY, quantity=11, price=61]
+
+Bid [bidId=159, traderId=123, bidType=BUY, quantity=16, price=50]
+
+Bid [bidId=921, traderId=123, bidType=BUY, quantity=10, price=50]
+
+Bid [bidId=534, traderId=123, bidType=BUY, quantity=7, price=50]
+
+Bid [bidId=736, traderId=123, bidType=BUY, quantity=3, price=70]
+
+Bid [bidId=175, traderId=123, bidType=BUY, quantity=7, price=50]
+
+Bid [bidId=634, traderId=123, bidType=BUY, quantity=18, price=92]
+
+Bid [bidId=921, traderId=123, bidType=BUY, quantity=6, price=50]
+
+Bid [bidId=181, traderId=123, bidType=BUY, quantity=9, price=50]
+
+Bid [bidId=213, traderId=80, bidType=BUY, quantity=16, price=113]
+
+Bid [bidId=15, traderId=80, bidType=BUY, quantity=13, price=145]
+
+Bid [bidId=416, traderId=80, bidType=BUY, quantity=14, price=50]
+
+Bid [bidId=933, traderId=80, bidType=BUY, quantity=8, price=50]
+
+Bid [bidId=598, traderId=80, bidType=BUY, quantity=5, price=72]
+
+Bid [bidId=394, traderId=80, bidType=BUY, quantity=2, price=50]
+
+Bid [bidId=972, traderId=80, bidType=BUY, quantity=17, price=50]
+
+Bid [bidId=155, traderId=80, bidType=BUY, quantity=16, price=119]
+
+Bid [bidId=397, traderId=80, bidType=BUY, quantity=9, price=146]
+
+Bid [bidId=157, traderId=80, bidType=BUY, quantity=6, price=133]
+
+Bid [bidId=132, traderId=44, bidType=BUY, quantity=22, price=64]
+
+Bid [bidId=206, traderId=44, bidType=BUY, quantity=13, price=70]
+
+Bid [bidId=518, traderId=44, bidType=BUY, quantity=2, price=139]
+
+Bid [bidId=66, traderId=44, bidType=BUY, quantity=17, price=105]
+
+Bid [bidId=168, traderId=44, bidType=BUY, quantity=16, price=69]
+
+Bid [bidId=959, traderId=44, bidType=BUY, quantity=17, price=148]
+
+Bid [bidId=771, traderId=44, bidType=BUY, quantity=17, price=105]
+
+Bid [bidId=140, traderId=44, bidType=BUY, quantity=13, price=91]
+
+Bid [bidId=1, traderId=44, bidType=BUY, quantity=21, price=122]
+
+Bid [bidId=694, traderId=44, bidType=BUY, quantity=13, price=50]
+
+Bid [bidId=719, traderId=39, bidType=BUY, quantity=8, price=59]
+
+Bid [bidId=281, traderId=39, bidType=BUY, quantity=11, price=108]
+
+Bid [bidId=306, traderId=39, bidType=BUY, quantity=28, price=120]
+
+Bid [bidId=643, traderId=39, bidType=BUY, quantity=10, price=100]
+
+Bid [bidId=268, traderId=39, bidType=BUY, quantity=18, price=107]
+
+Bid [bidId=880, traderId=39, bidType=BUY, quantity=3, price=140]
+
+Bid [bidId=388, traderId=39, bidType=BUY, quantity=19, price=50]
+
+Bid [bidId=32, traderId=39, bidType=BUY, quantity=14, price=114]
+
+Bid [bidId=416, traderId=39, bidType=BUY, quantity=20, price=126]
+
+Bid [bidId=410, traderId=39, bidType=BUY, quantity=21, price=50]
+
+Bid [bidId=433, traderId=32, bidType=BUY, quantity=20, price=50]
+
+Bid [bidId=375, traderId=32, bidType=BUY, quantity=3, price=50]
+
+Bid [bidId=416, traderId=32, bidType=BUY, quantity=5, price=50]
+
+Bid [bidId=256, traderId=32, bidType=BUY, quantity=5, price=148]
+
+Bid [bidId=581, traderId=32, bidType=BUY, quantity=11, price=117]
+
+Bid [bidId=739, traderId=32, bidType=BUY, quantity=20, price=99]
+
+Bid [bidId=716, traderId=32, bidType=BUY, quantity=20, price=73]
+
+Bid [bidId=991, traderId=32, bidType=BUY, quantity=9, price=50]
+
+Bid [bidId=997, traderId=32, bidType=BUY, quantity=2, price=50]
+
+Bid [bidId=760, traderId=32, bidType=BUY, quantity=3, price=145]
+
+Bid [bidId=604, traderId=102, bidType=BUY, quantity=6, price=90]
+
+Bid [bidId=761, traderId=102, bidType=BUY, quantity=29, price=135]
+
+Bid [bidId=648, traderId=102, bidType=BUY, quantity=2, price=121]
+
+Bid [bidId=388, traderId=102, bidType=BUY, quantity=21, price=125]
+
+Bid [bidId=268, traderId=102, bidType=BUY, quantity=1, price=66]
+
+Bid [bidId=537, traderId=102, bidType=BUY, quantity=7, price=105]
+
+Bid [bidId=883, traderId=102, bidType=BUY, quantity=22, price=50]
+
+Bid [bidId=552, traderId=102, bidType=BUY, quantity=3, price=128]
+
+Bid [bidId=220, traderId=102, bidType=BUY, quantity=11, price=92]
+
+Bid [bidId=689, traderId=102, bidType=BUY, quantity=12, price=99]
+
+Bid [bidId=163, traderId=124, bidType=BUY, quantity=9, price=68]
+
+Bid [bidId=338, traderId=124, bidType=BUY, quantity=10, price=103]
+
+Bid [bidId=531, traderId=124, bidType=BUY, quantity=3, price=50]
+
+Bid [bidId=590, traderId=124, bidType=BUY, quantity=20, price=123]
+
+Bid [bidId=355, traderId=124, bidType=BUY, quantity=29, price=50]
+
+Bid [bidId=676, traderId=124, bidType=BUY, quantity=15, price=56]
+
+Bid [bidId=225, traderId=124, bidType=BUY, quantity=10, price=92]
+
+Bid [bidId=837, traderId=124, bidType=BUY, quantity=4, price=101]
+
+Bid [bidId=929, traderId=124, bidType=BUY, quantity=17, price=121]
+
+Bid [bidId=94, traderId=124, bidType=BUY, quantity=21, price=50]
+
+Bid [bidId=370, traderId=59, bidType=BUY, quantity=3, price=78]
+
+Bid [bidId=136, traderId=59, bidType=BUY, quantity=21, price=50]
+
+Bid [bidId=163, traderId=59, bidType=BUY, quantity=5, price=132]
+
+Bid [bidId=737, traderId=59, bidType=BUY, quantity=9, price=50]
+
+Bid [bidId=7, traderId=59, bidType=BUY, quantity=28, price=144]
+
+Bid [bidId=961, traderId=59, bidType=BUY, quantity=11, price=50]
+
+Bid [bidId=86, traderId=59, bidType=BUY, quantity=7, price=130]
+
+Bid [bidId=557, traderId=59, bidType=BUY, quantity=2, price=58]
+
+Bid [bidId=926, traderId=59, bidType=BUY, quantity=28, price=50]
+
+Bid [bidId=720, traderId=59, bidType=BUY, quantity=19, price=50]
+
+Bid [bidId=314, traderId=32, bidType=BUY, quantity=8, price=50]
+
+Bid [bidId=415, traderId=32, bidType=BUY, quantity=3, price=149]
+
+Bid [bidId=571, traderId=32, bidType=BUY, quantity=13, price=66]
+
+Bid [bidId=454, traderId=32, bidType=BUY, quantity=23, price=50]
+
+Bid [bidId=255, traderId=32, bidType=BUY, quantity=5, price=50]
+
+Bid [bidId=743, traderId=32, bidType=BUY, quantity=2, price=106]
+
+Bid [bidId=957, traderId=32, bidType=BUY, quantity=29, price=79]
+
+Bid [bidId=868, traderId=32, bidType=BUY, quantity=10, price=50]
+
+Bid [bidId=299, traderId=32, bidType=BUY, quantity=20, price=50]
+
+Bid [bidId=436, traderId=32, bidType=BUY, quantity=28, price=125]
+
+Bid [bidId=392, traderId=36, bidType=BUY, quantity=11, price=138]
+
+Bid [bidId=987, traderId=36, bidType=BUY, quantity=3, price=51]
+
+Bid [bidId=581, traderId=36, bidType=BUY, quantity=25, price=89]
+
+Bid [bidId=729, traderId=36, bidType=BUY, quantity=9, price=59]
+
+Bid [bidId=106, traderId=36, bidType=BUY, quantity=2, price=50]
+
+Bid [bidId=694, traderId=36, bidType=BUY, quantity=1, price=60]
+
+Bid [bidId=750, traderId=36, bidType=BUY, quantity=14, price=50]
+
+Bid [bidId=20, traderId=36, bidType=BUY, quantity=22, price=130]
+
+Bid [bidId=515, traderId=36, bidType=BUY, quantity=26, price=50]
+
+Bid [bidId=90, traderId=36, bidType=BUY, quantity=29, price=149]
+
+ The number of Ask Bids is: 100
+
+ The number of Buy Bids is: 100
+
+Auctioneer Profit at initial bidding: 400
+
+All Bid Id Are Unique!!!
+
+Matched Bids are as below... 
+
+Ask Bid: Bid [bidId=634, traderId=83, bidType=ASK, quantity=5, price=60]
+Buy Bid: Bid [bidId=959, traderId=44, bidType=BUY, quantity=12, price=148]
+
+Ask Bid: Bid [bidId=591, traderId=54, bidType=ASK, quantity=4, price=60]
+Buy Bid: Bid [bidId=32, traderId=39, bidType=BUY, quantity=14, price=114]
+
+Ask Bid: Bid [bidId=465, traderId=88, bidType=ASK, quantity=7, price=80]
+Buy Bid: Bid [bidId=450, traderId=123, bidType=BUY, quantity=23, price=98]
+
+Ask Bid: Bid [bidId=408, traderId=88, bidType=ASK, quantity=1, price=60]
+Buy Bid: Bid [bidId=388, traderId=102, bidType=BUY, quantity=1, price=125]
+
+Ask Bid: Bid [bidId=823, traderId=75, bidType=ASK, quantity=6, price=60]
+Buy Bid: Bid [bidId=281, traderId=39, bidType=BUY, quantity=11, price=108]
+
+Ask Bid: Bid [bidId=523, traderId=83, bidType=ASK, quantity=5, price=60]
+Buy Bid: Bid [bidId=959, traderId=44, bidType=BUY, quantity=17, price=148]
+
+Ask Bid: Bid [bidId=758, traderId=81, bidType=ASK, quantity=7, price=85]
+Buy Bid: Bid [bidId=739, traderId=32, bidType=BUY, quantity=6, price=99]
+
+Ask Bid: Bid [bidId=942, traderId=54, bidType=ASK, quantity=16, price=60]
+Buy Bid: Bid [bidId=213, traderId=80, bidType=BUY, quantity=16, price=113]
+
+Ask Bid: Bid [bidId=528, traderId=54, bidType=ASK, quantity=3, price=74]
+Buy Bid: Bid [bidId=837, traderId=124, bidType=BUY, quantity=4, price=101]
+
+Ask Bid: Bid [bidId=886, traderId=77, bidType=ASK, quantity=1, price=60]
+Buy Bid: Bid [bidId=157, traderId=80, bidType=BUY, quantity=6, price=133]
+
+Ask Bid: Bid [bidId=180, traderId=31, bidType=ASK, quantity=20, price=60]
+Buy Bid: Bid [bidId=388, traderId=102, bidType=BUY, quantity=21, price=125]
+
+Ask Bid: Bid [bidId=100, traderId=88, bidType=ASK, quantity=8, price=80]
+Buy Bid: Bid [bidId=220, traderId=102, bidType=BUY, quantity=3, price=92]
+
+Ask Bid: Bid [bidId=10, traderId=74, bidType=ASK, quantity=28, price=60]
+Buy Bid: Bid [bidId=306, traderId=39, bidType=BUY, quantity=28, price=120]
+
+Ask Bid: Bid [bidId=100, traderId=88, bidType=ASK, quantity=25, price=80]
+Buy Bid: Bid [bidId=689, traderId=102, bidType=BUY, quantity=12, price=99]
+
+Ask Bid: Bid [bidId=72, traderId=81, bidType=ASK, quantity=8, price=60]
+Buy Bid: Bid [bidId=1, traderId=44, bidType=BUY, quantity=4, price=122]
+
+Ask Bid: Bid [bidId=712, traderId=83, bidType=ASK, quantity=9, price=60]
+Buy Bid: Bid [bidId=7, traderId=59, bidType=BUY, quantity=10, price=144]
+
+Ask Bid: Bid [bidId=72, traderId=81, bidType=ASK, quantity=2, price=60]
+Buy Bid: Bid [bidId=634, traderId=123, bidType=BUY, quantity=10, price=92]
+
+Ask Bid: Bid [bidId=72, traderId=81, bidType=ASK, quantity=24, price=60]
+Buy Bid: Bid [bidId=415, traderId=32, bidType=BUY, quantity=3, price=149]
+
+Ask Bid: Bid [bidId=54, traderId=31, bidType=ASK, quantity=18, price=60]
+Buy Bid: Bid [bidId=416, traderId=39, bidType=BUY, quantity=10, price=126]
+
+Ask Bid: Bid [bidId=62, traderId=9, bidType=ASK, quantity=18, price=60]
+Buy Bid: Bid [bidId=7, traderId=59, bidType=BUY, quantity=28, price=144]
+
+Ask Bid: Bid [bidId=54, traderId=31, bidType=ASK, quantity=8, price=60]
+Buy Bid: Bid [bidId=929, traderId=124, bidType=BUY, quantity=7, price=121]
+
+Ask Bid: Bid [bidId=323, traderId=62, bidType=ASK, quantity=3, price=67]
+Buy Bid: Bid [bidId=32, traderId=39, bidType=BUY, quantity=10, price=114]
+
+Ask Bid: Bid [bidId=100, traderId=88, bidType=ASK, quantity=12, price=80]
+Buy Bid: Bid [bidId=771, traderId=44, bidType=BUY, quantity=4, price=105]
+
+Ask Bid: Bid [bidId=712, traderId=83, bidType=ASK, quantity=18, price=60]
+Buy Bid: Bid [bidId=397, traderId=80, bidType=BUY, quantity=9, price=146]
+
+Ask Bid: Bid [bidId=3, traderId=74, bidType=ASK, quantity=7, price=60]
+Buy Bid: Bid [bidId=1, traderId=44, bidType=BUY, quantity=18, price=122]
+
+Ask Bid: Bid [bidId=54, traderId=31, bidType=ASK, quantity=1, price=60]
+Buy Bid: Bid [bidId=634, traderId=123, bidType=BUY, quantity=14, price=92]
+
+Ask Bid: Bid [bidId=982, traderId=9, bidType=ASK, quantity=1, price=60]
+Buy Bid: Bid [bidId=880, traderId=39, bidType=BUY, quantity=3, price=140]
+
+Ask Bid: Bid [bidId=861, traderId=75, bidType=ASK, quantity=8, price=60]
+Buy Bid: Bid [bidId=929, traderId=124, bidType=BUY, quantity=15, price=121]
+
+Ask Bid: Bid [bidId=173, traderId=31, bidType=ASK, quantity=18, price=60]
+Buy Bid: Bid [bidId=20, traderId=36, bidType=BUY, quantity=22, price=130]
+
+Ask Bid: Bid [bidId=545, traderId=77, bidType=ASK, quantity=11, price=60]
+Buy Bid: Bid [bidId=392, traderId=36, bidType=BUY, quantity=11, price=138]
+
+Ask Bid: Bid [bidId=72, traderId=81, bidType=ASK, quantity=4, price=60]
+Buy Bid: Bid [bidId=450, traderId=123, bidType=BUY, quantity=2, price=98]
+
+Ask Bid: Bid [bidId=604, traderId=9, bidType=ASK, quantity=4, price=84]
+Buy Bid: Bid [bidId=634, traderId=123, bidType=BUY, quantity=18, price=92]
+
+Ask Bid: Bid [bidId=758, traderId=81, bidType=ASK, quantity=14, price=85]
+Buy Bid: Bid [bidId=643, traderId=39, bidType=BUY, quantity=7, price=100]
+
+Ask Bid: Bid [bidId=758, traderId=81, bidType=ASK, quantity=1, price=85]
+Buy Bid: Bid [bidId=581, traderId=36, bidType=BUY, quantity=5, price=89]
+
+Ask Bid: Bid [bidId=742, traderId=9, bidType=ASK, quantity=3, price=60]
+Buy Bid: Bid [bidId=760, traderId=32, bidType=BUY, quantity=3, price=145]
+
+Ask Bid: Bid [bidId=883, traderId=75, bidType=ASK, quantity=20, price=87]
+Buy Bid: Bid [bidId=581, traderId=36, bidType=BUY, quantity=25, price=89]
+
+Ask Bid: Bid [bidId=164, traderId=77, bidType=ASK, quantity=20, price=60]
+Buy Bid: Bid [bidId=157, traderId=80, bidType=BUY, quantity=5, price=133]
+
+Ask Bid: Bid [bidId=22, traderId=83, bidType=ASK, quantity=21, price=74]
+Buy Bid: Bid [bidId=338, traderId=124, bidType=BUY, quantity=10, price=103]
+
+Ask Bid: Bid [bidId=80, traderId=74, bidType=ASK, quantity=18, price=60]
+Buy Bid: Bid [bidId=436, traderId=32, bidType=BUY, quantity=11, price=125]
+
+Ask Bid: Bid [bidId=456, traderId=77, bidType=ASK, quantity=20, price=60]
+Buy Bid: Bid [bidId=761, traderId=102, bidType=BUY, quantity=29, price=135]
+
+Ask Bid: Bid [bidId=758, traderId=81, bidType=ASK, quantity=24, price=85]
+Buy Bid: Bid [bidId=225, traderId=124, bidType=BUY, quantity=10, price=92]
+
+Ask Bid: Bid [bidId=876, traderId=62, bidType=ASK, quantity=3, price=96]
+Buy Bid: Bid [bidId=450, traderId=123, bidType=BUY, quantity=14, price=98]
+
+Ask Bid: Bid [bidId=72, traderId=81, bidType=ASK, quantity=15, price=60]
+Buy Bid: Bid [bidId=959, traderId=44, bidType=BUY, quantity=7, price=148]
+
+Ask Bid: Bid [bidId=315, traderId=62, bidType=ASK, quantity=11, price=60]
+Buy Bid: Bid [bidId=20, traderId=36, bidType=BUY, quantity=4, price=130]
+
+Ask Bid: Bid [bidId=54, traderId=31, bidType=ASK, quantity=21, price=60]
+Buy Bid: Bid [bidId=552, traderId=102, bidType=BUY, quantity=3, price=128]
+
+Ask Bid: Bid [bidId=175, traderId=83, bidType=ASK, quantity=7, price=60]
+Buy Bid: Bid [bidId=880, traderId=39, bidType=BUY, quantity=2, price=140]
+
+Ask Bid: Bid [bidId=684, traderId=75, bidType=ASK, quantity=1, price=60]
+Buy Bid: Bid [bidId=281, traderId=39, bidType=BUY, quantity=2, price=108]
+
+Ask Bid: Bid [bidId=315, traderId=62, bidType=ASK, quantity=18, price=60]
+Buy Bid: Bid [bidId=86, traderId=59, bidType=BUY, quantity=7, price=130]
+
+Ask Bid: Bid [bidId=72, traderId=81, bidType=ASK, quantity=21, price=60]
+Buy Bid: Bid [bidId=90, traderId=36, bidType=BUY, quantity=6, price=149]
+
+Ask Bid: Bid [bidId=175, traderId=83, bidType=ASK, quantity=3, price=60]
+Buy Bid: Bid [bidId=634, traderId=123, bidType=BUY, quantity=13, price=92]
+
+Ask Bid: Bid [bidId=752, traderId=83, bidType=ASK, quantity=10, price=68]
+Buy Bid: Bid [bidId=537, traderId=102, bidType=BUY, quantity=7, price=105]
+
+Ask Bid: Bid [bidId=315, traderId=62, bidType=ASK, quantity=7, price=60]
+Buy Bid: Bid [bidId=1, traderId=44, bidType=BUY, quantity=11, price=122]
+
+Ask Bid: Bid [bidId=760, traderId=88, bidType=ASK, quantity=19, price=85]
+Buy Bid: Bid [bidId=140, traderId=44, bidType=BUY, quantity=13, price=91]
+
+Ask Bid: Bid [bidId=100, traderId=88, bidType=ASK, quantity=1, price=80]
+Buy Bid: Bid [bidId=634, traderId=123, bidType=BUY, quantity=8, price=92]
+
+Ask Bid: Bid [bidId=614, traderId=83, bidType=ASK, quantity=2, price=86]
+Buy Bid: Bid [bidId=450, traderId=123, bidType=BUY, quantity=16, price=98]
+
+Ask Bid: Bid [bidId=3, traderId=74, bidType=ASK, quantity=23, price=60]
+Buy Bid: Bid [bidId=155, traderId=80, bidType=BUY, quantity=16, price=119]
+
+Ask Bid: Bid [bidId=22, traderId=83, bidType=ASK, quantity=11, price=74]
+Buy Bid: Bid [bidId=771, traderId=44, bidType=BUY, quantity=15, price=105]
+
+Ask Bid: Bid [bidId=684, traderId=75, bidType=ASK, quantity=13, price=60]
+Buy Bid: Bid [bidId=743, traderId=32, bidType=BUY, quantity=2, price=106]
+
+Ask Bid: Bid [bidId=757, traderId=77, bidType=ASK, quantity=5, price=60]
+Buy Bid: Bid [bidId=518, traderId=44, bidType=BUY, quantity=2, price=139]
+
+Ask Bid: Bid [bidId=106, traderId=31, bidType=ASK, quantity=8, price=80]
+Buy Bid: Bid [bidId=739, traderId=32, bidType=BUY, quantity=20, price=99]
+
+Ask Bid: Bid [bidId=682, traderId=31, bidType=ASK, quantity=3, price=80]
+Buy Bid: Bid [bidId=643, traderId=39, bidType=BUY, quantity=10, price=100]
+
+Ask Bid: Bid [bidId=100, traderId=88, bidType=ASK, quantity=5, price=80]
+Buy Bid: Bid [bidId=581, traderId=36, bidType=BUY, quantity=4, price=89]
+
+Ask Bid: Bid [bidId=21, traderId=54, bidType=ASK, quantity=1, price=60]
+Buy Bid: Bid [bidId=581, traderId=32, bidType=BUY, quantity=11, price=117]
+
+Ask Bid: Bid [bidId=31, traderId=88, bidType=ASK, quantity=17, price=60]
+Buy Bid: Bid [bidId=436, traderId=32, bidType=BUY, quantity=28, price=125]
+
+Ask Bid: Bid [bidId=281, traderId=88, bidType=ASK, quantity=3, price=60]
+Buy Bid: Bid [bidId=1, traderId=44, bidType=BUY, quantity=21, price=122]
+
+Ask Bid: Bid [bidId=634, traderId=83, bidType=ASK, quantity=10, price=60]
+Buy Bid: Bid [bidId=256, traderId=32, bidType=BUY, quantity=5, price=148]
+
+Ask Bid: Bid [bidId=614, traderId=83, bidType=ASK, quantity=8, price=86]
+Buy Bid: Bid [bidId=604, traderId=102, bidType=BUY, quantity=6, price=90]
+
+Ask Bid: Bid [bidId=80, traderId=74, bidType=ASK, quantity=20, price=60]
+Buy Bid: Bid [bidId=648, traderId=102, bidType=BUY, quantity=2, price=121]
+
+Ask Bid: Bid [bidId=164, traderId=77, bidType=ASK, quantity=9, price=60]
+Buy Bid: Bid [bidId=450, traderId=123, bidType=BUY, quantity=11, price=98]
+
+Ask Bid: Bid [bidId=175, traderId=83, bidType=ASK, quantity=20, price=60]
+Buy Bid: Bid [bidId=15, traderId=80, bidType=BUY, quantity=13, price=145]
+
+Ask Bid: Bid [bidId=434, traderId=74, bidType=ASK, quantity=8, price=84]
+Buy Bid: Bid [bidId=220, traderId=102, bidType=BUY, quantity=11, price=92]
+
+Ask Bid: Bid [bidId=175, traderId=83, bidType=ASK, quantity=5, price=60]
+Buy Bid: Bid [bidId=7, traderId=59, bidType=BUY, quantity=1, price=144]
+
+Ask Bid: Bid [bidId=175, traderId=83, bidType=ASK, quantity=4, price=60]
+Buy Bid: Bid [bidId=281, traderId=39, bidType=BUY, quantity=1, price=108]
+
+Ask Bid: Bid [bidId=323, traderId=62, bidType=ASK, quantity=20, price=67]
+Buy Bid: Bid [bidId=66, traderId=44, bidType=BUY, quantity=17, price=105]
+
+Ask Bid: Bid [bidId=752, traderId=83, bidType=ASK, quantity=3, price=68]
+Buy Bid: Bid [bidId=281, traderId=39, bidType=BUY, quantity=5, price=108]
+
+Ask Bid: Bid [bidId=684, traderId=75, bidType=ASK, quantity=11, price=60]
+Buy Bid: Bid [bidId=581, traderId=32, bidType=BUY, quantity=10, price=117]
+
+Ask Bid: Bid [bidId=682, traderId=83, bidType=ASK, quantity=23, price=60]
+Buy Bid: Bid [bidId=90, traderId=36, bidType=BUY, quantity=29, price=149]
+
+Ask Bid: Bid [bidId=861, traderId=75, bidType=ASK, quantity=26, price=60]
+Buy Bid: Bid [bidId=268, traderId=39, bidType=BUY, quantity=18, price=107]
+
+Ask Bid: Bid [bidId=354, traderId=74, bidType=ASK, quantity=2, price=60]
+Buy Bid: Bid [bidId=929, traderId=124, bidType=BUY, quantity=17, price=121]
+
+Ask Bid: Bid [bidId=100, traderId=88, bidType=ASK, quantity=13, price=80]
+Buy Bid: Bid [bidId=837, traderId=124, bidType=BUY, quantity=1, price=101]
+
+Ask Bid: Bid [bidId=164, traderId=77, bidType=ASK, quantity=15, price=60]
+Buy Bid: Bid [bidId=761, traderId=102, bidType=BUY, quantity=6, price=135]
+
+Ask Bid: Bid [bidId=80, traderId=74, bidType=ASK, quantity=7, price=60]
+Buy Bid: Bid [bidId=32, traderId=39, bidType=BUY, quantity=7, price=114]
+
+Ask Bid: Bid [bidId=760, traderId=88, bidType=ASK, quantity=6, price=85]
+Buy Bid: Bid [bidId=739, traderId=32, bidType=BUY, quantity=12, price=99]
+
+Ask Bid: Bid [bidId=408, traderId=88, bidType=ASK, quantity=21, price=60]
+Buy Bid: Bid [bidId=590, traderId=124, bidType=BUY, quantity=20, price=123]
+
+Ask Bid: Bid [bidId=164, traderId=77, bidType=ASK, quantity=25, price=60]
+Buy Bid: Bid [bidId=163, traderId=59, bidType=BUY, quantity=5, price=132]
+
+Ask Bid: Bid [bidId=666, traderId=31, bidType=ASK, quantity=10, price=60]
+Buy Bid: Bid [bidId=416, traderId=39, bidType=BUY, quantity=20, price=126]
+
+Ask Bid: Bid [bidId=757, traderId=77, bidType=ASK, quantity=3, price=60]
+Buy Bid: Bid [bidId=761, traderId=102, bidType=BUY, quantity=9, price=135]
+
+Ask Bid: Bid [bidId=536, traderId=74, bidType=ASK, quantity=2, price=67]
+Buy Bid: Bid [bidId=771, traderId=44, bidType=BUY, quantity=17, price=105]
+
+
+The total number of matched bids is: 88
+
+ The number of unmatched Ask Bids after matching is: 52
+
+ The number of unmatched Buy Bids after matching is: 54
+The UNMATCHED BIDS ARE AS FOLLOWS...
+
+	 	 	 	 	 	 	 	 	 	 ASK BIDS 	 	 	 	 	 	 	 	 	 	 	 BUY BIDS
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bid [bidId=217, traderId=81, bidType=ASK, quantity=17, price=97] 	|	 Bid [bidId=634, traderId=123, bidType=BUY, quantity=7, price=92]
+
+Bid [bidId=934, traderId=83, bidType=ASK, quantity=24, price=97] 	|	 Bid [bidId=957, traderId=32, bidType=BUY, quantity=29, price=79]
+
+Bid [bidId=61, traderId=81, bidType=ASK, quantity=4, price=98] 	|	 Bid [bidId=370, traderId=59, bidType=BUY, quantity=3, price=78]
+
+Bid [bidId=821, traderId=75, bidType=ASK, quantity=22, price=98] 	|	 Bid [bidId=716, traderId=32, bidType=BUY, quantity=20, price=73]
+
+Bid [bidId=801, traderId=77, bidType=ASK, quantity=5, price=99] 	|	 Bid [bidId=598, traderId=80, bidType=BUY, quantity=5, price=72]
+
+Bid [bidId=6, traderId=74, bidType=ASK, quantity=17, price=100] 	|	 Bid [bidId=736, traderId=123, bidType=BUY, quantity=3, price=70]
+
+Bid [bidId=351, traderId=62, bidType=ASK, quantity=23, price=101] 	|	 Bid [bidId=206, traderId=44, bidType=BUY, quantity=13, price=70]
+
+Bid [bidId=640, traderId=74, bidType=ASK, quantity=9, price=101] 	|	 Bid [bidId=168, traderId=44, bidType=BUY, quantity=16, price=69]
+
+Bid [bidId=673, traderId=75, bidType=ASK, quantity=27, price=102] 	|	 Bid [bidId=163, traderId=124, bidType=BUY, quantity=9, price=68]
+
+Bid [bidId=570, traderId=31, bidType=ASK, quantity=13, price=103] 	|	 Bid [bidId=268, traderId=102, bidType=BUY, quantity=1, price=66]
+
+Bid [bidId=264, traderId=75, bidType=ASK, quantity=22, price=103] 	|	 Bid [bidId=571, traderId=32, bidType=BUY, quantity=13, price=66]
+
+Bid [bidId=902, traderId=9, bidType=ASK, quantity=19, price=104] 	|	 Bid [bidId=132, traderId=44, bidType=BUY, quantity=22, price=64]
+
+Bid [bidId=333, traderId=81, bidType=ASK, quantity=11, price=107] 	|	 Bid [bidId=512, traderId=123, bidType=BUY, quantity=11, price=61]
+
+Bid [bidId=0, traderId=9, bidType=ASK, quantity=4, price=107] 	|	 Bid [bidId=694, traderId=36, bidType=BUY, quantity=1, price=60]
+
+Bid [bidId=428, traderId=83, bidType=ASK, quantity=24, price=110] 	|	 Bid [bidId=719, traderId=39, bidType=BUY, quantity=8, price=59]
+
+Bid [bidId=559, traderId=74, bidType=ASK, quantity=29, price=110] 	|	 Bid [bidId=729, traderId=36, bidType=BUY, quantity=9, price=59]
+
+Bid [bidId=528, traderId=81, bidType=ASK, quantity=19, price=112] 	|	 Bid [bidId=557, traderId=59, bidType=BUY, quantity=2, price=58]
+
+Bid [bidId=562, traderId=88, bidType=ASK, quantity=27, price=113] 	|	 Bid [bidId=676, traderId=124, bidType=BUY, quantity=15, price=56]
+
+Bid [bidId=810, traderId=9, bidType=ASK, quantity=6, price=114] 	|	 Bid [bidId=987, traderId=36, bidType=BUY, quantity=3, price=51]
+
+Bid [bidId=943, traderId=31, bidType=ASK, quantity=16, price=114] 	|	 Bid [bidId=159, traderId=123, bidType=BUY, quantity=16, price=50]
+
+Bid [bidId=763, traderId=81, bidType=ASK, quantity=28, price=115] 	|	 Bid [bidId=921, traderId=123, bidType=BUY, quantity=10, price=50]
+
+Bid [bidId=799, traderId=75, bidType=ASK, quantity=25, price=115] 	|	 Bid [bidId=534, traderId=123, bidType=BUY, quantity=7, price=50]
+
+Bid [bidId=396, traderId=75, bidType=ASK, quantity=12, price=115] 	|	 Bid [bidId=175, traderId=123, bidType=BUY, quantity=7, price=50]
+
+Bid [bidId=776, traderId=62, bidType=ASK, quantity=2, price=116] 	|	 Bid [bidId=921, traderId=123, bidType=BUY, quantity=6, price=50]
+
+Bid [bidId=74, traderId=81, bidType=ASK, quantity=13, price=117] 	|	 Bid [bidId=181, traderId=123, bidType=BUY, quantity=9, price=50]
+
+Bid [bidId=149, traderId=77, bidType=ASK, quantity=5, price=117] 	|	 Bid [bidId=416, traderId=80, bidType=BUY, quantity=14, price=50]
+
+Bid [bidId=545, traderId=31, bidType=ASK, quantity=6, price=118] 	|	 Bid [bidId=933, traderId=80, bidType=BUY, quantity=8, price=50]
+
+Bid [bidId=752, traderId=62, bidType=ASK, quantity=24, price=119] 	|	 Bid [bidId=394, traderId=80, bidType=BUY, quantity=2, price=50]
+
+Bid [bidId=243, traderId=54, bidType=ASK, quantity=28, price=119] 	|	 Bid [bidId=972, traderId=80, bidType=BUY, quantity=17, price=50]
+
+Bid [bidId=35, traderId=54, bidType=ASK, quantity=3, price=119] 	|	 Bid [bidId=694, traderId=44, bidType=BUY, quantity=13, price=50]
+
+Bid [bidId=151, traderId=62, bidType=ASK, quantity=10, price=120] 	|	 Bid [bidId=388, traderId=39, bidType=BUY, quantity=19, price=50]
+
+Bid [bidId=610, traderId=54, bidType=ASK, quantity=8, price=120] 	|	 Bid [bidId=410, traderId=39, bidType=BUY, quantity=21, price=50]
+
+Bid [bidId=195, traderId=62, bidType=ASK, quantity=12, price=121] 	|	 Bid [bidId=433, traderId=32, bidType=BUY, quantity=20, price=50]
+
+Bid [bidId=702, traderId=88, bidType=ASK, quantity=9, price=121] 	|	 Bid [bidId=375, traderId=32, bidType=BUY, quantity=3, price=50]
+
+Bid [bidId=24, traderId=88, bidType=ASK, quantity=17, price=124] 	|	 Bid [bidId=416, traderId=32, bidType=BUY, quantity=5, price=50]
+
+Bid [bidId=525, traderId=9, bidType=ASK, quantity=28, price=125] 	|	 Bid [bidId=991, traderId=32, bidType=BUY, quantity=9, price=50]
+
+Bid [bidId=329, traderId=88, bidType=ASK, quantity=10, price=125] 	|	 Bid [bidId=997, traderId=32, bidType=BUY, quantity=2, price=50]
+
+Bid [bidId=256, traderId=77, bidType=ASK, quantity=22, price=126] 	|	 Bid [bidId=883, traderId=102, bidType=BUY, quantity=22, price=50]
+
+Bid [bidId=389, traderId=31, bidType=ASK, quantity=19, price=128] 	|	 Bid [bidId=531, traderId=124, bidType=BUY, quantity=3, price=50]
+
+Bid [bidId=335, traderId=9, bidType=ASK, quantity=23, price=129] 	|	 Bid [bidId=355, traderId=124, bidType=BUY, quantity=29, price=50]
+
+Bid [bidId=954, traderId=77, bidType=ASK, quantity=21, price=129] 	|	 Bid [bidId=94, traderId=124, bidType=BUY, quantity=21, price=50]
+
+Bid [bidId=248, traderId=81, bidType=ASK, quantity=4, price=134] 	|	 Bid [bidId=136, traderId=59, bidType=BUY, quantity=21, price=50]
+
+Bid [bidId=622, traderId=62, bidType=ASK, quantity=17, price=134] 	|	 Bid [bidId=737, traderId=59, bidType=BUY, quantity=9, price=50]
+
+Bid [bidId=85, traderId=54, bidType=ASK, quantity=1, price=135] 	|	 Bid [bidId=961, traderId=59, bidType=BUY, quantity=11, price=50]
+
+Bid [bidId=299, traderId=54, bidType=ASK, quantity=2, price=137] 	|	 Bid [bidId=926, traderId=59, bidType=BUY, quantity=28, price=50]
+
+Bid [bidId=702, traderId=9, bidType=ASK, quantity=21, price=139] 	|	 Bid [bidId=720, traderId=59, bidType=BUY, quantity=19, price=50]
+
+Bid [bidId=27, traderId=81, bidType=ASK, quantity=26, price=140] 	|	 Bid [bidId=314, traderId=32, bidType=BUY, quantity=8, price=50]
+
+Bid [bidId=721, traderId=54, bidType=ASK, quantity=19, price=140] 	|	 Bid [bidId=454, traderId=32, bidType=BUY, quantity=23, price=50]
+
+Bid [bidId=249, traderId=77, bidType=ASK, quantity=8, price=144] 	|	 Bid [bidId=255, traderId=32, bidType=BUY, quantity=5, price=50]
+
+Bid [bidId=511, traderId=62, bidType=ASK, quantity=23, price=145] 	|	 Bid [bidId=868, traderId=32, bidType=BUY, quantity=10, price=50]
+
+Bid [bidId=667, traderId=75, bidType=ASK, quantity=10, price=145] 	|	 Bid [bidId=299, traderId=32, bidType=BUY, quantity=20, price=50]
+
+Bid [bidId=265, traderId=74, bidType=ASK, quantity=22, price=146] 	|	 Bid [bidId=106, traderId=36, bidType=BUY, quantity=2, price=50]
+
+
+The trader and Auctioneer Profit is... 
+
+
+Trader Id : 32, Profit: 286.8
+
+Trader Id : 36, Profit: 942.9
+
+Trader Id : 102, Profit: 299.4
+
+Trader Id : 39, Profit: 833.7
+
+Trader Id : 9, Profit: 832.1999999999999
+
+Trader Id : 74, Profit: 329.09999999999997
+
+Trader Id : 75, Profit: 372.6
+
+Trader Id : 44, Profit: 321.9
+
+Trader Id : 77, Profit: 258.9
+
+Trader Id : 80, Profit: 491.4
+
+Trader Id : 81, Profit: 237.6
+
+Trader Id : 83, Profit: 980.4
+
+Trader Id : 54, Profit: 519.9
+
+Trader Id : 88, Profit: 558.0
+
+Trader Id : 123, Profit: 246.60000000000002
+
+Trader Id : 59, Profit: 162.0
+
+Trader Id : 124, Profit: 558.0
+
+Trader Id : 62, Profit: 290.7
+
+Trader Id : 31, Profit: 471.6
+
+Auctioneer Profit after Bid Matching: 4048
